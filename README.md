@@ -28,3 +28,4 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+- This project is licensed under the MIT License - see the LICENSE.md file for details
